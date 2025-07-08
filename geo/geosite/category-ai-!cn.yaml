@@ -9,6 +9,11 @@ payload:
     - alkalimakersuite-pa.clients6.google.com
     - webchannel-alkalimakersuite-pa.clients6.google.com
     - pplx-res.cloudinary.com
+    - +.runwayml.com
+    - +.otter.ai
+    - +.lensa.app
+    - +.starryai.com
+    - +.deepl.com
     - +.labs.google
     - +.gemini.google
     - +.dify.ai
